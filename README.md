@@ -1,4 +1,11 @@
-### Hi there 👋
+I am a newly-graduated software developer from India.
+
+**About Me**
+- 🖧 I'm interested in **Systems Programming**.
+- 🔭 Currently working on narrowing my problem space from languages, APIs, systems, optimization, and networking to something more tractable.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saumayrustagi) | [Twitter](https://x.com/saumayrustagi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumayrustagi&layout=donut-vertical&hide=perl&langs_count=10)
 
 <!--
 **saumayrustagi/saumayrustagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
