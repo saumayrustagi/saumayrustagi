@@ -1,8 +1,6 @@
 # Saumay Rustagi
 [LinkedIn](https://www.linkedin.com/in/saumayrustagi) | [Twitter](https://x.com/saumayrustagi)
 
-Software Engineer | Systems & Infrastructure
-
 Currently: Solving **[CMU 15-213](https://github.com/saumayrustagi/cmu_15-213)** (CS:APP)
 
 ### Systems Projects
