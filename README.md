@@ -1,12 +1,16 @@
-I am a newly-graduated software developer from India.
+# Saumay Rustagi
+[LinkedIn](https://www.linkedin.com/in/saumayrustagi) | [Twitter](https://x.com/saumayrustagi)
 
-Current Focus: *Solving CS:APP labs in [cmu_15-213](https://github.com/saumayrustagi/cmu_15-213)*
+Software Engineer | Systems & Infrastructure
 
-#### About Me
+Currently: Solving **[CMU 15-213](https://github.com/saumayrustagi/cmu_15-213)** (CS:APP)
 
-- I'm interested in **Systems Programming**.
-- Working on narrowing my problem space from languages, APIs, systems, optimization, and networking to something more tractable.
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/saumayrustagi) | [Twitter](https://x.com/saumayrustagi)
+### Systems Projects
+- **[HTTP Server (C)](https://github.com/saumayrustagi/http_server_c):** Zero-dependency implementation using **arenas**, threadpools, and semaphores.
+- **[Rust 2FA](https://github.com/saumayrustagi/rust_2fa):** In-place implementation of **RFC 6238/4226/2104** with minimal dynamic allocation.
+- **[Unix Shell](https://github.com/saumayrustagi/CS537/blob/main/projects/2a%20shell/wish.c):** Custom shell with I/O redirection via raw syscalls.
+- **[Socket Chat (Go)](https://github.com/saumayrustagi/chat_app_go):** Networked chat bypasses `net` library for raw socket syscalls.
+- **[HTTP Server (Rust)](https://github.com/saumayrustagi/http_server_rust):** Concurrent server utilizing threadpools and channels.
 
 <!--
 <hr>
